@@ -1,0 +1,21 @@
+- Qu'est-ce que le développement web, et pourquoi est-il essentiel dans le contexte d'Internet ?
+C'est le processus permettant de créer d'un site ou d'une page internet. 
+
+- Avez-vous entendu parler de HTML ? Si oui, que signifie HTML et quel est son principal objectif dans le développement web ?
+HTML stands for HyperText Markup Language. Il permet de créer des pages web en utilisant des tags (balises).
+
+- Êtes-vous familier avec CSS ? Si oui, expliquez brièvement à quoi sert CSS dans le développement web.
+En gros, CSS permet de styliser une page web fait avec HTML.
+
+- Avez-vous entendu parler de JavaScript ? Si oui, qu'est-ce que JavaScript et pourquoi est-il crucial pour créer des sites web interactifs ?
+JavaScript est un langage de programmation. Il permet d'assurer l'interactivité des pages web en manipulant le html et le css en temps reel.
+
+- Êtes-vous familier avec React et Node.js ? Si oui, fournissez une brève description de ce à quoi React et Node.js sont généralement utilisés dans le développement web.
+React et NodeJS sont des frameworks permettant de faciliter le developpement avec JavaScript.
+
+-Pourquoi voulez-vous apprendre le développement web, et qu'espérez-vous réaliser en acquérant des compétences en HTML, CSS, JavaScript, React et Node.js ?
+Les raisons qui m'ont poussé à vouloir apprendre le développement web sont les suivantes:
+  -Ma passion personnelle
+  -La forte demande dans le marché du travail
+  -La résolution de problèmes
+En acquérant ces compétences, j'espère pouvoir réaliser des sites web interactifs démarrer une carrière pro.
